@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Gold", "Iron"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What year did the first human land on the moon?",
+      "options": ["1965", "1969", "1972", "1959"],
+      "answer": "1969"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "India"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which language is primarily spoken in Brazil?",
+      "options": ["Spanish", "Portuguese", "English", "French"],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    }
+  ]
+}
