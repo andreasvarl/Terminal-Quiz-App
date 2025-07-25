@@ -8,8 +8,6 @@ A simple command-line quiz game built with Node.js, using prompt-sync for input 
 
 🔀 Randomize questions
 
-⏱️ Timer to measure total play time
-
 📊 Shows correct answers and final score in %
 
 ❌ Input validation for choices
